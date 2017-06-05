@@ -1,0 +1,6 @@
+name: FishEditor
+version: ${project.version}
+main: net.poweredbyhate.fisheditor.FishEditor
+authors: [LaxWasHere]
+commands:
+  fishedit:
